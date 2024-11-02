@@ -1,0 +1,2 @@
+docker login -u gadhamsetty8776
+dckr_pat_FERxp5cAmq_JMU4QGNQksoSjW9A
